@@ -8,3 +8,4 @@ class TblQuizListSerizlizer(serializers.HyperlinkedModelSerializer):
         model = TblQuizlist
        	fields = '__all__'
 
+#REFER TO urls.py for rest of the serializers and viewsets
