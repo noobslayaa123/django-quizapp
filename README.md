@@ -2,3 +2,7 @@
 
 
 Note:This is just the structure ,actual tables have a different name
+
+**Actual_Table:-**
+
+![PostgredbSS](https://user-images.githubusercontent.com/64307639/109687648-75254b80-7ba9-11eb-9dce-09c86ad37f7d.PNG)
